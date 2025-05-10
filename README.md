@@ -1,12 +1,5 @@
 # OT-Alignment4brain-to-image
 
-4"A large building with a clock tower on top."
-5"A close shot of a tasty looking dish."
-6"A couple of slices of cake sitting on top of a plate."
-7"A group of people playing soccer in a field."
-8"A large brown bear walking across a stone floor."
-9"A surfer is riding a wave in the ocean."
-
 ![Image 0](./test_images/0.png)
 
 Original Description: "A group of people at a table with food."
@@ -53,7 +46,7 @@ Neural Description: "A white plate with a very tasty looking treat."
 
 Original Description: "A group of people playing soccer against each other on a field."
 
-Neural Description: "A group of young people playing a game of frisbee."
+Neural Description: "A group of people in a grassy field with a frisbee."
 
 ![Image 8](./test_images/8.png)
 
@@ -63,4 +56,5 @@ Neural Description: "A black and white image of a dog sitting on the floor."
 
 ![Image 9](./test_images/9.png)
 Original Description: "A surfer is riding a wave in the ocean."
+
 Neural Description: "A man riding a wave on top of a surfboard."
