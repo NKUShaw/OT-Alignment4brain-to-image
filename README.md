@@ -1,8 +1,21 @@
 # OT-Alignment4brain-to-image
 
+4"A large building with a clock tower on top."
+5"A close shot of a tasty looking dish."
+6"A couple of slices of cake sitting on top of a plate."
+7"A group of people playing soccer in a field."
+8"A large brown bear walking across a stone floor."
+9"A surfer is riding a wave in the ocean."
+
+![Image 0](./test_images/0.png)
+
+Original Description: "A group of people at a table with food."
+
+Neural Description: "A group of people standing around a counter in a restaurant."
+
 ![Image 1](./test_images/1.png)
 
-Original Description: "A man in a kitchen with a spoon in his hand."
+Original Description: "A man in a kitchen preparing food"
 
 Neural Description: "A man is working in a kitchen, preparing food."
 
@@ -14,7 +27,7 @@ Neural Description: "A surfer is riding a wave in the ocean."
 
 ![Image 3](./test_images/3.png)
 
-Original Description: "A person walking in the grass with a large umbrella."
+Original Description: "A person is parasailing on a lake with mountains in the distance."
 
 Neural Description: "A black and white photo of the beach"
 
