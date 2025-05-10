@@ -55,6 +55,7 @@ Original Description: "A cat sits on the floor and looks at the camera."
 Neural Description: "A black and white image of a dog sitting on the floor."
 
 ![Image 9](./test_images/9.png)
+
 Original Description: "A surfer is riding a wave in the ocean."
 
 Neural Description: "A man riding a wave on top of a surfboard."
