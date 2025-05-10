@@ -1,9 +1,4 @@
 # OT-Alignment4brain-to-image
-![Image 0](./test_images/0.png)
-
-Original Description: "A group of people cooking in a kitchen"
-
-Neural Description: "A group of people standing around a counter in a restaurant."
 
 ![Image 1](./test_images/1.png)
 
