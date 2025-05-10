@@ -2,13 +2,33 @@
 
 ![Image 0](./test_images/0.png)
 
-Original Description: "A group of people at a table with food."
+Candidate Descriptions: 
+
+0 "People shopping in an open market for vegetables." 
+
+1 "An open market full of people and piles of vegetables."
+
+2 "People are shopping at an open air produce market."
+
+3 "Large piles of carrots and potatoes at a crowded outdoor market."
+
+4 "People shop for vegetables like carrots and potatoes at an open air market."
 
 Neural Description: "A group of people standing around a counter in a restaurant."
 
 ![Image 1](./test_images/1.png)
 
-Original Description: "A man in a kitchen preparing food"
+Original Description: 
+
+0 "a couple of people are cooking in a room"
+
+1 "Two people in chef's outfits cooking inside a kitchen."
+
+2 "two chefs working on seperate parts of a meal at a restaurant"
+
+3 "a couple of chefs standing in front of some food "
+
+4 "A couple of cooks standing in a kitchen making food."
 
 Neural Description: "A man is working in a kitchen, preparing food."
 
