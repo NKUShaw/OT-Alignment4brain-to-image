@@ -52,7 +52,7 @@ Neural Description: "A group of people in a grassy field with a frisbee."
 
 Original Description: "A cat sits on the floor and looks at the camera."
 
-Neural Description: "A black and white image of a dog sitting on the floor."
+Neural Description: "A black and white image of a cat sitting on the floor."
 
 ![Image 9](./test_images/9.png)
 
