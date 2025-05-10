@@ -18,7 +18,7 @@ Neural Description: "A group of people standing around a counter in a restaurant
 
 ![Image 1](./test_images/1.png)
 
-Original Description: 
+Candidate Descriptions: 
 
 0 "a couple of people are cooking in a room"
 
@@ -34,7 +34,7 @@ Neural Description: "A man is working in a kitchen, preparing food."
 
 ![Image 2](./test_images/2.png)
 
-Original Description: 
+Candidate Descriptions: 
 
 0 "A person in a wetsuit surfing on a turquoise wave."
 
@@ -50,7 +50,7 @@ Neural Description: "A surfer is riding a wave in the ocean."
 
 ![Image 3](./test_images/3.png)
 
-Original Description: 
+Candidate Descriptions: 
 
 0 "a windsurfer some water a hill sand and some kayaks"
 
@@ -66,7 +66,7 @@ Neural Description: "A black and white photo of the beach"
 
 ![Image 4](./test_images/4.png)
 
-Original Description: 
+Candidate Descriptions: 
 
 0 "A brick building with a clock on it and pathway."
 
@@ -82,7 +82,7 @@ Neural Description: "A tall clock tower sitting next to a tall building."
 
 ![Image 5](./test_images/5.png)
 
-Original Description: 
+Candidate Descriptions: 
 
 0 "a plate of yummy food of some kind"
 
@@ -98,7 +98,7 @@ Neural Description: "A plate of food with broccoli, onions, and other vegetables
 
 ![Image 6](./test_images/6.png)
 
-Original Description: 
+Candidate Descriptions: 
 
 0 "A cup of coffee on a plate with a spoon."
 
@@ -114,7 +114,7 @@ Neural Description: "A white plate with a very tasty looking treat."
 
 ![Image 7](./test_images/7.png)
 
-Original Description: 
+Candidate Descriptions: 
 
 0 "Three young women are trying to catch a frisbee."
 
@@ -130,7 +130,7 @@ Neural Description: "A group of people in a grassy field with a frisbee."
 
 ![Image 8](./test_images/8.png)
 
-Original Description: 
+Candidate Descriptions: 
 
 0 "a cat is sitting on top of a vehicle"
 
@@ -146,7 +146,7 @@ Neural Description: "A black and white image of a cat sitting on the floor."
 
 ![Image 9](./test_images/9.png)
 
-Original Description: 
+Candidate Descriptions: 
 
 0 "A man in swim shorts is riding a surf board."
 
