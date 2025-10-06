@@ -1,4 +1,6 @@
-# OT-Alignment4brain-to-image [ICCV 2025]
+# Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing [ICCV 2025]
+
+### Case
 
 ![Image 0](./test_images/0.png)
 
