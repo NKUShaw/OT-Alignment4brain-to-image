@@ -8,6 +8,7 @@ Official Implementation of ICCV 2025 Paper
 
 Data preparation, and training procedures, please refer to https://github.com/weihaox/UMBRAE
 
+All you need to do is just replace MSE Loss with OT Loss.
 
 <!--
 ### Case
