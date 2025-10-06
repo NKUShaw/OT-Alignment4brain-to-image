@@ -1,4 +1,9 @@
-# Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing [ICCV 2025]
+# 🧠 Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing [ICCV 2025]
+
+## Usage
+
+Data preparation, and training procedures, please refer to https://github.com/weihaox/UMBRAE
+
 
 <!--
 ### Case
