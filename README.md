@@ -1,5 +1,6 @@
 # Optimal Transport for Brain-Image Alignment: Unveiling Redundancy and Synergy in Neural Information Processing [ICCV 2025]
 
+<!--
 ### Case
 
 ![Image 0](./test_images/0.png)
@@ -161,3 +162,5 @@ Candidate Descriptions:
 4 "A shirtless man riding shortboard on a wave."
 
 Neural Description: "A man riding a wave on top of a surfboard."
+
+-->
